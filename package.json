@@ -1,0 +1,23 @@
+{
+  "name": "ajs-2.3",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/222Alexa/AJS-2.3.git"
+  },
+  "author": "222Alexa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/222Alexa/AJS-2.3/issues"
+  },
+  "homepage": "https://github.com/222Alexa/AJS-2.3#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
